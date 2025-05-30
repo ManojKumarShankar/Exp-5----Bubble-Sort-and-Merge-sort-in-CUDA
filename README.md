@@ -1,7 +1,7 @@
 <h1 align=center> Exp - 5 - Bubble Sort and Merge sort in CUDA </h1>
 <h3>NAME:S Manoj kumar</h3>
 <h3>REGISTER NO: 212222040097</h3>
-<h3>DATE:25/04/2025</h3>
+<h3>DATE:06/05/2025</h3>
 
 ## AIM:
 To Implement Bubble Sort and Merge Sort on the GPU using CUDA to enhance the performance of sorting tasks by parallelizing comparisons and swaps within the sorting algorithm.
